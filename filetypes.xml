@@ -1,0 +1,8 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="art_method_replace" type="ObjectiveC" />
+      <mapping ext="lsc" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
