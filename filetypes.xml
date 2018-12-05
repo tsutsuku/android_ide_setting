@@ -3,6 +3,8 @@
     <extensionMap>
       <mapping pattern="art_method_replace" type="ObjectiveC" />
       <mapping ext="lsc" type="PLAIN_TEXT" />
+      <mapping ext="a" type="PLAIN_TEXT" />
+      <removed_mapping ext="a" type="UNKNOWN" />
     </extensionMap>
   </component>
 </application>
